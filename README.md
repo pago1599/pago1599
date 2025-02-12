@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **React**
 
-- 👯 I’m looking to collaborate on **New Project**
+- 👯 I’m looking to collaborate on **Worker Review App**
 
 - 👨‍💻 All of my projects are available at [https://github.com/pago1599](https://github.com/pago1599)
 
