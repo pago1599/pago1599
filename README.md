@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Fabio Artudi</h1>
 <h3 align="center">A passionate fullstack developer from Italy</h3>
 
-- 🔭 I’m currently working on **Just Eat Project**
+- 🔭 I’m currently working on **Worker Review App**
 
 - 🌱 I’m currently learning **React**
 
